@@ -4,14 +4,13 @@ body {
 }
 
 h1 {
-  color: white;
   text-align: center;
   font-size: 20px;
   color: lightgray;
 }
 p {
   font-family: verdana;
-  font-size: 12px;
+  font-size: 22px;
   color: lightblue;
 }
 
@@ -26,5 +25,5 @@ div {
 
 ul {
   list-style-type: square;
-  color: yellow;
+  color: rgb(230, 230, 220);
 }

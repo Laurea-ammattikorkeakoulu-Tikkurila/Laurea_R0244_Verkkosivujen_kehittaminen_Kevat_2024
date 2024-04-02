@@ -1,0 +1,1 @@
+Tämä on frameworks työkansion readme tiedosto. Tässä työkansiossa on tarkoitus tutustua erilaisiin web-sovelluskehystyksiin ja niiden käyttöön. Tässä työkansiossa on seuraavat alikansiot

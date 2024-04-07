@@ -23,6 +23,18 @@ img {
   float: right;
 }   
 
+.img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
 .container {
     width: 600px;
     margin: 0 auto;

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" type="text/css" href="./styles/style.css" />
+    <link rel="stylesheet" type="text/css" href="./styles/style3.css" />
     <title>Float</title>    
   </head>
   <body>
@@ -15,17 +15,21 @@
             <li><a href="./float-right.html">Float Right</a></li>
         </ul>
     </nav>
-    <h2>Float Right</h2>
+    <h2>Float across</h2>
     <p>
-      In this example, the image will float to the right in the div.
+      In this example, the images will float across the div.
     </p>
 
-    <div class="right">
-      <img class="img2"
-        src="https://aamuset.fi/static/content/pic_6_5180181_k5949856_1200.jpg"
-        alt="Pineapple"
-        style="width: 170px; height: 170px;"
-      />
-     <div class="clear"></div>
+    <div class="clearfix">
+        <div class="img-container">
+        <img src="https://www.w3schools.com/css/img_5terre.jpg" alt="Italy" style="width:100%">
+        </div>
+        <div class="img-container">
+        <img src="https://www.w3schools.com/css/img_forest.jpg" alt="Forest" style="width:100%">
+        </div>
+        <div class="img-container">
+        <img src="https://www.w3schools.com/css/img_mountains.jpg" alt="Mountains" style="width:100%">
+        </div>
+      </div>
   </body>
 </html>

@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .nav-logo {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+  }
+  
+  .nav-menu li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  @media (max-width: 600px) {
+    .nav-menu {
+      flex-direction: column;
+      gap: 0.5em;
+    }
+  }

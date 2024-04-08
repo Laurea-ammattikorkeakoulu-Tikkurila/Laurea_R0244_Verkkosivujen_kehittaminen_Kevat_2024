@@ -64,7 +64,7 @@ a:active {
 
 ul {
   list-style-type: none;
-  padding: 5;
+  padding: 5px;
 }
 
 #bar {
@@ -87,7 +87,7 @@ ul {
 }
 
 nav {
-  max-width: auto;
+  max-width: 100%;
   background-color: #e0e0e9;
   margin: 0;
   padding: 1em;

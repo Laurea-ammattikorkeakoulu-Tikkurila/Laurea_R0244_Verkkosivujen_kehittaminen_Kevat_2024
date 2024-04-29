@@ -20,7 +20,7 @@ tr:nth-child(odd) {
   background-color: rgb(253, 253, 253);
 }
 tr:hover {
-  background-color: rgb(208, 21, 21);
+  background-color: rgb(83, 223, 136);
 }
 table {
   font-family: verdana;

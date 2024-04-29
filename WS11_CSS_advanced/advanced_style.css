@@ -38,7 +38,7 @@ nav a:hover {
   color: navy;
   font-size: 20px;
 }
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 400px) {
   body {
     /* body, a { jos halutaan myös linkit valkoisiksi */
     background-color: black;

@@ -28,7 +28,8 @@ In this course, you will create a simple website using HTML, CSS and Bootstrap. 
 ## Conclusion
 By the end of this course, you will have a good understanding of web development and how to create a website using HTML, CSS and Bootstrap. You will be able to create your own website and customize it to your liking.
 
-## References
+## References 
+- [HTML Tutorial](https://www.w3schools.com/html/)
 
 ```
 
